@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="spiralcraft" module="ant">
+  </info> 
+  
+  <publications>
+    <artifact name="spiralcraft-ant" type="jar" ext="jar"/>
+  </publications> 
+    
+  <dependencies>
+    <dependency org="spiralcraft" name="core" rev="[0.4.12,0.5["/>
+    <dependency org="apache" name="ant" rev="[1.8.1,)"/>
+  </dependencies>
+</ivy-module>
