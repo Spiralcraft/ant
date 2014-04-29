@@ -1,0 +1,4 @@
+<project name="repo-modules" basedir=".">
+  
+  <repo-inst org="apache" module="ant" rev="1.8.3"/>
+</project>
